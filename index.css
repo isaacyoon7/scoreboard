@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.score {
+    background-color: #080001;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-size: 90px;
+    line-height: 127px;
+    color: #F94F6D;
+    margin: 15px;
+    width: 120px;
+}
+button {
+    background: none;
+    color: aliceblue;
+    border-color: aliceblue;
+    height: 30px
+}
+.title {
+    color: aliceblue;
+}
